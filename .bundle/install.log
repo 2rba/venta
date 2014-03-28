@@ -1,0 +1,7 @@
+# Logfile created on 2014-03-28 16:12:28 +0200 by logger.rb/44203
+I, [2014-03-28T16:12:28.822036 #54721]  INFO -- : 0:  RocketAMF (0.2.1) from /Users/devel/.rvm/gems/ruby-2.1.0@venta/specifications/RocketAMF-0.2.1.gemspec
+I, [2014-03-28T16:12:28.822443 #54721]  INFO -- : 0:  bundler (1.5.1) from /Users/devel/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-28T16:13:49.784230 #54730]  INFO -- : 0:  RocketAMF (0.2.1) from /Users/devel/.rvm/gems/ruby-2.1.0@venta/specifications/RocketAMF-0.2.1.gemspec
+I, [2014-03-28T16:13:51.386649 #54730]  INFO -- : 0:  mime-types (2.2) from /Users/devel/.rvm/gems/ruby-2.1.0@venta/specifications/mime-types-2.2.gemspec
+I, [2014-03-28T16:13:52.928920 #54730]  INFO -- : 0:  rest-client (1.6.7) from /Users/devel/.rvm/gems/ruby-2.1.0@venta/specifications/rest-client-1.6.7.gemspec
+I, [2014-03-28T16:13:52.932909 #54730]  INFO -- : 0:  bundler (1.5.1) from /Users/devel/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
